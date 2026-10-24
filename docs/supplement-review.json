@@ -1,0 +1,1862 @@
+{
+  "source": "BO_SUNG_HOC_TU_VUNG_N4_262_TU_15_BAI_FE.md",
+  "total": 262,
+  "reused": 161,
+  "added": 101,
+  "questions": 524,
+  "policy": "Original IDs, glosses and achievement requirements preserved. Additive content retains compatible schema version 1.0.0. Generated quizzes use source vocabulary; draft example/context questions are not published.",
+  "corrections": [
+    {
+      "sourceId": "V205",
+      "wordId": "w-お正月-おしょうがつ",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": true,
+      "surface": "お正月",
+      "hiragana": "しょうがつ",
+      "meaningVi": "Tết Dương lịch; dịp đầu năm ở Nhật",
+      "partOfSpeech": "Danh từ",
+      "romaji": "shougatsu",
+      "locale": "ja-JP",
+      "reading": "おしょうがつ",
+      "correction": "Nguồn ghi しょうがつ; cách đọc có tiền tố お là おしょうがつ."
+    }
+  ],
+  "correctionReference": "https://kotobank.jp/word/御正月-2016317",
+  "placements": [
+    {
+      "sourceId": "V005",
+      "wordId": "w-暖かい-あたたかい",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V006",
+      "wordId": "w-暑い-あつい",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V007",
+      "wordId": "w-寒い-さむい",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V008",
+      "wordId": "w-涼しい-すずしい",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V144",
+      "wordId": "w-朝-あさ",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V145",
+      "wordId": "w-明日-あした",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V146",
+      "wordId": "w-今朝-けさ",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V147",
+      "wordId": "w-今度-こんど",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V148",
+      "wordId": "w-今晩-こんばん",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V149",
+      "wordId": "w-今夜-こんや",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V150",
+      "wordId": "w-夏休み-なつやすみ",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V151",
+      "wordId": "w-昼-ひる",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V152",
+      "wordId": "w-昼休み-ひるやすみ",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V153",
+      "wordId": "w-夕方-ゆうがた",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V154",
+      "wordId": "w-夜-よる",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V155",
+      "wordId": "w-秋-あき",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V156",
+      "wordId": "w-季節-きせつ",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V157",
+      "wordId": "w-夏-なつ",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V158",
+      "wordId": "w-春-はる",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V159",
+      "wordId": "w-冬-ふゆ",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V205",
+      "wordId": "w-お正月-おしょうがつ",
+      "lessonId": "lesson-01",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V235",
+      "wordId": "w-時計-とけい",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V238",
+      "wordId": "w-日曜日-にちようび",
+      "lessonId": "lesson-01",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V010",
+      "wordId": "w-明るい-あかるい",
+      "lessonId": "lesson-02",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V013",
+      "wordId": "w-暗い-くらい",
+      "lessonId": "lesson-02",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V164",
+      "wordId": "w-池-いけ",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V171",
+      "wordId": "w-海-うみ",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V207",
+      "wordId": "w-風-かぜ",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V226",
+      "wordId": "w-台風-たいふう",
+      "lessonId": "lesson-02",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V231",
+      "wordId": "w-天気-てんき",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V240",
+      "wordId": "w-林-はやし",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V242",
+      "wordId": "w-光-ひかり",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V253",
+      "wordId": "w-森-もり",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V257",
+      "wordId": "w-雪-ゆき",
+      "lessonId": "lesson-02",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V017",
+      "wordId": "w-近い-ちかい",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V111",
+      "wordId": "w-京都市-きょうとし",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V112",
+      "wordId": "w-京都府-きょうとふ",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V117",
+      "wordId": "w-東京都-とうきょうと",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V118",
+      "wordId": "w-所-ところ",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V119",
+      "wordId": "w-長野県-ながのけん",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V120",
+      "wordId": "w-場所-ばしょ",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V179",
+      "wordId": "w-海外-かいがい",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V206",
+      "wordId": "w-世界-せかい",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V211",
+      "wordId": "w-近所-きんじょ",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V212",
+      "wordId": "w-区-く",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V220",
+      "wordId": "w-市民-しみん",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V222",
+      "wordId": "w-住所-じゅうしょ",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V227",
+      "wordId": "w-地図-ちず",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V229",
+      "wordId": "w-地理-ちり",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V250",
+      "wordId": "w-町-まち",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V251",
+      "wordId": "w-真ん中-まんなか",
+      "lessonId": "lesson-03",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V252",
+      "wordId": "w-村-むら",
+      "lessonId": "lesson-03",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V001",
+      "wordId": "w-青い-あおい",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V002",
+      "wordId": "w-赤い-あかい",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V003",
+      "wordId": "w-黒い-くろい",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V004",
+      "wordId": "w-白い-しろい",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V083",
+      "wordId": "w-注文する-ちゅうもんする",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V110",
+      "wordId": "w-食堂-しょくどう",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V160",
+      "wordId": "w-味-あじ",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V168",
+      "wordId": "w-犬-いぬ",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V170",
+      "wordId": "w-色-いろ",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V175",
+      "wordId": "w-お茶-おちゃ",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V193",
+      "wordId": "w-子犬-こいぬ",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V198",
+      "wordId": "w-米-こめ",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V210",
+      "wordId": "w-牛肉-ぎゅうにく",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V215",
+      "wordId": "w-小鳥-ことり",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V216",
+      "wordId": "w-ご飯-ごはん",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V223",
+      "wordId": "w-食料品-しょくりょうひん",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V228",
+      "wordId": "w-茶色-ちゃいろ",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V233",
+      "wordId": "w-動物-どうぶつ",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V236",
+      "wordId": "w-鳥-とり",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V237",
+      "wordId": "w-肉-にく",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V241",
+      "wordId": "w-晩ご飯-ばんごはん",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V255",
+      "wordId": "w-野菜-やさい",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V256",
+      "wordId": "w-夕食-ゆうしょく",
+      "lessonId": "lesson-04",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V262",
+      "wordId": "w-料理-りょうり",
+      "lessonId": "lesson-04",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V028",
+      "wordId": "w-元気な-げんきな",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V044",
+      "wordId": "w-安心する-あんしんする",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V050",
+      "wordId": "w-運動する-うんどうする",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V071",
+      "wordId": "w-死ぬ-しぬ",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V079",
+      "wordId": "w-世話をする-せわをする",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V089",
+      "wordId": "w-入院する-にゅういんする",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V121",
+      "wordId": "w-病院-びょういん",
+      "lessonId": "lesson-05",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V134",
+      "wordId": "w-医者-いしゃ",
+      "lessonId": "lesson-05",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V161",
+      "wordId": "w-頭-あたま",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V182",
+      "wordId": "w-顔-かお",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V186",
+      "wordId": "w-体-からだ",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V189",
+      "wordId": "w-気持ち-きもち",
+      "lessonId": "lesson-05",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V192",
+      "wordId": "w-首-くび",
+      "lessonId": "lesson-05",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V197",
+      "wordId": "w-心-こころ",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V213",
+      "wordId": "w-薬-くすり",
+      "lessonId": "lesson-05",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V243",
+      "wordId": "w-病気-びょうき",
+      "lessonId": "lesson-05",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V029",
+      "wordId": "w-親切な-しんせつな",
+      "lessonId": "lesson-06",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V047",
+      "wordId": "w-産む-うむ",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V105",
+      "wordId": "w-別れる-わかれる",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V123",
+      "wordId": "w-兄-あに",
+      "lessonId": "lesson-06",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V124",
+      "wordId": "w-姉-あね",
+      "lessonId": "lesson-06",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V125",
+      "wordId": "w-妹-いもうと",
+      "lessonId": "lesson-06",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V126",
+      "wordId": "w-弟-おとうと",
+      "lessonId": "lesson-06",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V127",
+      "wordId": "w-お兄さん-おにいさん",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V128",
+      "wordId": "w-お姉さん-おねえさん",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V129",
+      "wordId": "w-親-おや",
+      "lessonId": "lesson-06",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V130",
+      "wordId": "w-兄弟-きょうだい",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V131",
+      "wordId": "w-姉妹-しまい",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V132",
+      "wordId": "w-母親-ははおや",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V133",
+      "wordId": "w-両親-りょうしん",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V204",
+      "wordId": "w-主人-しゅじん",
+      "lessonId": "lesson-06",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V077",
+      "wordId": "w-住む-すむ",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V080",
+      "wordId": "w-建てる-たてる",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V114",
+      "wordId": "w-大使館-たいしかん",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V115",
+      "wordId": "w-建物-たてもの",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V122",
+      "wordId": "w-旅館-りょかん",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V174",
+      "wordId": "w-屋上-おくじょう",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V225",
+      "wordId": "w-台所-だいどころ",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V248",
+      "wordId": "w-引き出し-ひきだし",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V249",
+      "wordId": "w-本屋-ほんや",
+      "lessonId": "lesson-07",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V043",
+      "wordId": "w-歩く-あるく",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V045",
+      "wordId": "w-動く-うごく",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V049",
+      "wordId": "w-運転する-うんてんする",
+      "lessonId": "lesson-08",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V052",
+      "wordId": "w-送る-おくる",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V056",
+      "wordId": "w-降りる-おりる",
+      "lessonId": "lesson-08",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V059",
+      "wordId": "w-帰る-かえる",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V061",
+      "wordId": "w-通う-かよう",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V073",
+      "wordId": "w-出発する-しゅっぱつする",
+      "lessonId": "lesson-08",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V076",
+      "wordId": "w-進む-すすむ",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V085",
+      "wordId": "w-着く-つく",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V087",
+      "wordId": "w-止まる-とまる",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V088",
+      "wordId": "w-間に合う-まにあう",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V091",
+      "wordId": "w-乗る-のる",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V092",
+      "wordId": "w-運ぶ-はこぶ",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V094",
+      "wordId": "w-走る-はしる",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V104",
+      "wordId": "w-旅行する-りょこうする",
+      "lessonId": "lesson-08",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V138",
+      "wordId": "w-自転車-じてんしゃ",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V139",
+      "wordId": "w-自動車-じどうしゃ",
+      "lessonId": "lesson-08",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V140",
+      "wordId": "w-信号-しんごう",
+      "lessonId": "lesson-08",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V141",
+      "wordId": "w-交通-こうつう",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V142",
+      "wordId": "w-地下鉄-ちかてつ",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V143",
+      "wordId": "w-特急-とっきゅう",
+      "lessonId": "lesson-08",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V053",
+      "wordId": "w-教える-おしえる",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V068",
+      "wordId": "w-研究する-けんきゅうする",
+      "lessonId": "lesson-09",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V069",
+      "wordId": "w-答える-こたえる",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V070",
+      "wordId": "w-質問する-しつもんする",
+      "lessonId": "lesson-09",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V081",
+      "wordId": "w-注意する-ちゅういする",
+      "lessonId": "lesson-09",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V090",
+      "wordId": "w-習う-ならう",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V098",
+      "wordId": "w-勉強する-べんきょうする",
+      "lessonId": "lesson-09",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V107",
+      "wordId": "w-教室-きょうしつ",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V113",
+      "wordId": "w-大学院-だいがくいん",
+      "lessonId": "lesson-09",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V116",
+      "wordId": "w-図書館-としょかん",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V181",
+      "wordId": "w-科学-かがく",
+      "lessonId": "lesson-09",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V185",
+      "wordId": "w-紙-かみ",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V188",
+      "wordId": "w-漢字-かんじ",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V191",
+      "wordId": "w-教科書-きょうかしょ",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V199",
+      "wordId": "w-作文-さくぶん",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V201",
+      "wordId": "w-字-じ",
+      "lessonId": "lesson-09",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V219",
+      "wordId": "w-試験-しけん",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V254",
+      "wordId": "w-問題-もんだい",
+      "lessonId": "lesson-09",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V009",
+      "wordId": "w-頭がいい-あたまがいい",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V015",
+      "wordId": "w-正しい-ただしい",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V054",
+      "wordId": "w-思い出す-おもいだす",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V055",
+      "wordId": "w-思う-おもう",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V064",
+      "wordId": "w-考える-かんがえる",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V065",
+      "wordId": "w-強調する-きょうちょうする",
+      "lessonId": "lesson-10",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V074",
+      "wordId": "w-知る-しる",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V075",
+      "wordId": "w-信じる-しんじる",
+      "lessonId": "lesson-10",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V078",
+      "wordId": "w-説明する-せつめいする",
+      "lessonId": "lesson-10",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V165",
+      "wordId": "w-意見-いけん",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V169",
+      "wordId": "w-意味-いみ",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V173",
+      "wordId": "w-英語-えいご",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V202",
+      "wordId": "w-自分-じぶん",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V203",
+      "wordId": "w-小説-しょうせつ",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V224",
+      "wordId": "w-説明-せつめい",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V245",
+      "wordId": "w-文-ぶん",
+      "lessonId": "lesson-10",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V246",
+      "wordId": "w-文学-ぶんがく",
+      "lessonId": "lesson-10",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V048",
+      "wordId": "w-売る-うる",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V086",
+      "wordId": "w-作る-つくる",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V095",
+      "wordId": "w-働く-はたらく",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V103",
+      "wordId": "w-利用する-りようする",
+      "lessonId": "lesson-11",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V108",
+      "wordId": "w-銀行-ぎんこう",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V109",
+      "wordId": "w-工場-こうじょう",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V136",
+      "wordId": "w-仕事-しごと",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V137",
+      "wordId": "w-店員-てんいん",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V180",
+      "wordId": "w-買い物-かいもの",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V194",
+      "wordId": "w-工業-こうぎょう",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V195",
+      "wordId": "w-工事-こうじ",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V200",
+      "wordId": "w-産業-さんぎょう",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V214",
+      "wordId": "w-計画-けいかく",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V217",
+      "wordId": "w-品物-しなもの",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V258",
+      "wordId": "w-用事-ようじ",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V260",
+      "wordId": "w-料金-りょうきん",
+      "lessonId": "lesson-11",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V038",
+      "wordId": "w-開ける-あける",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V039",
+      "wordId": "w-開く-ひらく / あく",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V040",
+      "wordId": "w-集まる-あつまる",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V041",
+      "wordId": "w-集める-あつめる",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V042",
+      "wordId": "w-洗う-あらう",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V051",
+      "wordId": "w-起きる-おきる",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V057",
+      "wordId": "w-終わる-おわる",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V058",
+      "wordId": "w-返す-かえす",
+      "lessonId": "lesson-12",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V060",
+      "wordId": "w-貸す-かす",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V062",
+      "wordId": "w-借りる-かりる",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V066",
+      "wordId": "w-切る-きる",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V072",
+      "wordId": "w-閉める-しめる",
+      "lessonId": "lesson-12",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V082",
+      "wordId": "w-中止する-ちゅうしする",
+      "lessonId": "lesson-12",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V084",
+      "wordId": "w-使う-つかう",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V093",
+      "wordId": "w-始める-はじめる",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V096",
+      "wordId": "w-引く-ひく",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V099",
+      "wordId": "w-待つ-まつ",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V100",
+      "wordId": "w-回す-まわす",
+      "lessonId": "lesson-12",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V101",
+      "wordId": "w-持つ-もつ",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V102",
+      "wordId": "w-用意する-よういする",
+      "lessonId": "lesson-12",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V208",
+      "wordId": "w-切手-きって",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V230",
+      "wordId": "w-手紙-てがみ",
+      "lessonId": "lesson-12",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V011",
+      "wordId": "w-重い-おもい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V012",
+      "wordId": "w-軽い-かるい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V014",
+      "wordId": "w-細かい-こまかい",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V018",
+      "wordId": "w-都合がいい-つごうがいい",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V019",
+      "wordId": "w-強い-つよい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V020",
+      "wordId": "w-低い-ひくい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V021",
+      "wordId": "w-広い-ひろい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V022",
+      "wordId": "w-太い-ふとい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V023",
+      "wordId": "w-細い-ほそい",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V024",
+      "wordId": "w-短い-みじかい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V025",
+      "wordId": "w-良い-よい",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V026",
+      "wordId": "w-弱い-よわい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V027",
+      "wordId": "w-悪い-わるい",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V031",
+      "wordId": "w-大事な-だいじな",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V032",
+      "wordId": "w-大切な-たいせつな",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V033",
+      "wordId": "w-大変な-たいへんな",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V034",
+      "wordId": "w-特別な-とくべつな",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V035",
+      "wordId": "w-不便な-ふべんな",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V036",
+      "wordId": "w-変な-へんな",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V037",
+      "wordId": "w-有名な-ゆうめいな",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V063",
+      "wordId": "w-変わる-かわる",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V097",
+      "wordId": "w-変化する-へんかする",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V176",
+      "wordId": "w-同じ-おなじ",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V184",
+      "wordId": "w-形-かたち",
+      "lessonId": "lesson-13",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V234",
+      "wordId": "w-特に-とくに",
+      "lessonId": "lesson-13",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V016",
+      "wordId": "w-楽しい-たのしい",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V030",
+      "wordId": "w-好きな-すきな",
+      "lessonId": "lesson-14",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V046",
+      "wordId": "w-歌う-うたう",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V067",
+      "wordId": "w-着る-きる",
+      "lessonId": "lesson-14",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V106",
+      "wordId": "w-映画館-えいがかん",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V135",
+      "wordId": "w-歌手-かしゅ",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V172",
+      "wordId": "w-映画-えいが",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V177",
+      "wordId": "w-音-おと",
+      "lessonId": "lesson-14",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V178",
+      "wordId": "w-音楽-おんがく",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V190",
+      "wordId": "w-着物-きもの",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V196",
+      "wordId": "w-声-こえ",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V218",
+      "wordId": "w-試合-しあい",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V221",
+      "wordId": "w-写真-しゃしん",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V232",
+      "wordId": "w-電池-でんち",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V239",
+      "wordId": "w-人形-にんぎょう",
+      "lessonId": "lesson-14",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V244",
+      "wordId": "w-服-ふく",
+      "lessonId": "lesson-14",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V259",
+      "wordId": "w-洋服-ようふく",
+      "lessonId": "lesson-14",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V162",
+      "wordId": "w-以下-いか",
+      "lessonId": "lesson-15",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V163",
+      "wordId": "w-以外-いがい",
+      "lessonId": "lesson-15",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V166",
+      "wordId": "w-以上-いじょう",
+      "lessonId": "lesson-15",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V167",
+      "wordId": "w-一回-いっかい",
+      "lessonId": "lesson-15",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V183",
+      "wordId": "w-火事-かじ",
+      "lessonId": "lesson-15",
+      "isNew": false,
+      "extension": true
+    },
+    {
+      "sourceId": "V187",
+      "wordId": "w-代わりに-かわりに",
+      "lessonId": "lesson-15",
+      "isNew": true,
+      "extension": false
+    },
+    {
+      "sourceId": "V209",
+      "wordId": "w-急に-きゅうに",
+      "lessonId": "lesson-15",
+      "isNew": false,
+      "extension": false
+    },
+    {
+      "sourceId": "V247",
+      "wordId": "w-分野-ぶんや",
+      "lessonId": "lesson-15",
+      "isNew": true,
+      "extension": true
+    },
+    {
+      "sourceId": "V261",
+      "wordId": "w-両方-りょうほう",
+      "lessonId": "lesson-15",
+      "isNew": false,
+      "extension": false
+    }
+  ]
+}

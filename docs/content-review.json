@@ -1,0 +1,29 @@
+{
+  "source": "Kanji_N4_181_15_Bai_Giao_Trinh_Hoan_Chinh.md",
+  "policy": "Preserve original meanings per lesson; source answer keys, not official JLPT. Structural checks are not independent linguistic review.",
+  "meaningVariants": [
+    {
+      "id": "w-野菜-やさい",
+      "kept": "Rau",
+      "variant": "Rau củ",
+      "lessonId": "lesson-04"
+    },
+    {
+      "id": "w-勉強-べんきょう",
+      "kept": "Học tập",
+      "variant": "Học",
+      "lessonId": "lesson-09"
+    },
+    {
+      "id": "w-注文-ちゅうもん",
+      "kept": "Đặt hàng, gọi món",
+      "variant": "Đặt hàng",
+      "lessonId": "lesson-10"
+    }
+  ],
+  "excluded": [
+    "Lịch học theo tuần",
+    "Hướng dẫn StudyFlow",
+    "Ba bài kiểm tra chặng (ngoài quiz 15 bài)"
+  ]
+}
